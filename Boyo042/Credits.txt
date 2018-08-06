@@ -1,0 +1,94 @@
+/wav
+
+Battle_in_the_winter: https://opengameart.org/content/battle-in-the-winter
+Attribution Instructions: 
+Johan Brodd
+
+battleThemeA: https://opengameart.org/content/battle-theme-a
+Attribution Instructions: 
+cynicmusic.com pixelsphere.org
+
+Heroic Demise (New): https://opengameart.org/content/heroic-demise-updated-version
+
+Heroic Minority: https://opengameart.org/content/heroic-minority
+
+Path to Lake Land: https://opengameart.org/content/path-to-lake-land
+
+lullaby: https://opengameart.org/content/happy-lullaby-song17
+Attribution Instructions: 
+cynicmusic.com pixelsphere.org
+
+Growl: https://opengameart.org/content/large-monster
+
+/png
+Knight: https://opengameart.org/content/knight-of-finlandia
+Orc: https://opengameart.org/content/knight-of-finlandia
+
+Water: https://opengameart.org/content/lpc-animated-water-and-fire
+Trees: https://opengameart.org/content/two-pixelish-tree-sprites
+
+LPC (Liberated Pixel Cup) is a competition to produce quality tilesets for the community. 
+We used many on this project.
+
+LPC TILE's: 
+city_inside.png
+= Red carpets =
+* From LPC base tileset by Daniel Armstrong (AKA HughSpectrum)
+= Beds =
+* Based on bed from LPC base tileset by Lanea Zimmerman (AKA Sharm)
+= Wooden big table =
+* Based on table from LPC base tileset by Lanea Zimmerman (AKA Sharm)
+= Cloth big table =
+* By Tuomo Untinen
+= Brazier =
+* By Tuomo Untinen
+= Throne =
+* By Tuomo Untinen
+= Doors =
+* Based on door by Guido Bos
+= Cupboard, small table and table with mirror =
+* Cupboard based on LPC base tileset by Lanea Zimmerman (AKA Sharm)
+* Tables are from Castle_2.png by Lanea Zimmerman (AKA Sharm)
+* Mirror by Tuomo Untinen
+= Red banners, paintings and old papers =
+* By Tuomo Untinen
+= Small footchair =
+* By Tuomo Untinen
+= Double bed =
+* By Tuomo Untinen
+= Plants in pots =
+* By Tuomo Untinen
+= Gray bright windows =
+* By Tuomo Untinen
+= Short column and statue =
+* By Tuomo Untinen
+= Stone sign =
+* By Tuomo Untinen
+= Horse head =
+* By Tuomo Untinen
+= Grand piano =
+* By Tuomo Untinen
+= Cobblestone floor =
+* By Tuomo Untinen
+= Cellwall and door =
+* By Tuomo Untinen
+= Yellow stone floor =
+* Based from LPC base tileset by Daniel Armstrong (AKA HughSpectrum)
+= Gray wall topping  =
+* Tuomo Untinen
+= Vases with cover =
+* Based LPC base tiles by Lanea Zimmerman (AKA Sharm)
+* Modifications by Tuomo Untinen
+= Fireplace =
+* By Lanea Zimmerman
+
+LavaLake base art - https://opengameart.org/content/tiled-terrains
+
+
+LPC Cliff: 
+https://opengameart.org/content/lpc-cliffsmountains-with-grass-top-and-more
+Copyright/Attribution Notice: 
+Credit the original author Lanea Zimmerman ("Sharm") for these assets. Additionally, credit Daniel Eddeland and Wiliam Thompson for the sand. There is no need to credit me.
+
+/weapons
+https://opengameart.org/content/knight-of-finlandia
